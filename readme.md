@@ -8,5 +8,5 @@
 
 ## 20 novembre 2019 - Raddicts x EDF
 
-  + {Flexdashboard] par  Alexandre KLEIN : [sildes](2019-11-29/flexdashboard pour R.pdf)
-  + *ops par Diane Beldame : [slides](2019-11-29/ops.pdf)
+  + {Flexdashboard] par  Alexandre KLEIN : [slides](2019-11-29/flexdashboard_pour_R.pdf)
+  + *ops par Diane Beldame : [slides](2019-11-29/etoile_Ops.pdf)
