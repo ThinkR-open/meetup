@@ -1,11 +1,4 @@
----
-title: "Meetup R addicts Paris"
-output: html_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## 16 janvier 2020 - Raddicts x CRI
 
